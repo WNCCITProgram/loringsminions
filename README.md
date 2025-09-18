@@ -1,2 +1,3 @@
-# loringwminions
+# Loring's Minions
+
 Intro to Computer Science Flask Project
