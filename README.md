@@ -12,9 +12,9 @@ Intro to Computer Science Flask Project
 
 ## AI ChatBot
 
-Here's an outline for a Python Flask project to create an AI chatbot using an open-source model from Hugging Face, with tasks divided for a team of six community college students.
+Python Flask project to create an AI chatbot using an open-source model from Hugging Face, with tasks divided for a team.
 
-This approach uses the **Hugging Face Inference API**, which allows you to use powerful models for free without needing to download them or have a powerful computer.
+This project uses the **Hugging Face Inference API**, which allows you to use powerful models for free without needing to download them or have a powerful computer.
 
 ### **Project Outline: Flask Chatbot with Hugging Face**
 
