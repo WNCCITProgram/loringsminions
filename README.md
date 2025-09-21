@@ -1,6 +1,4 @@
-# Loring's Minions
-
-Intro to Computer Science Flask Project
+# Intro to Computer Science Flask Project
 
 ## Team Members
 
