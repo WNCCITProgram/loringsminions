@@ -7,7 +7,7 @@
 - Joe Scott
 - Caleb Stewart
 - Shawn Noon
-
+- Eliezer Lamien
 ## AI ChatBot
 
 Python Flask project to create an AI chatbot using an open-source model from Hugging Face, with tasks divided for a team.
