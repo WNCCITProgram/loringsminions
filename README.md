@@ -7,12 +7,13 @@
 - Joe Scott
 - Caleb Stewart
 - Shawn Noon
+- Elizier Lamen
 
 ## Flask Tutorials
 
 - [Chapter.16_Web_Development.pdf](https://itinstructor.github.io/WNCCComputerScience/Python/Web_Development/Chapter.16_Web_Development.pdf)
 - [Flask Unit Converter](https://itinstructor.github.io/WNCCComputerScience/Python/Web_Development/Flask_Unit_Converter.pdf)
-
+  
 ## Project Names
 
 Project Ragnarok: While Ragnarok is the "end of the world," in a project context it can signify the final, ultimate version of a build or a stress-testing application designed to push a system to its limits.
