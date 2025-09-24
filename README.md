@@ -8,6 +8,56 @@
 - Caleb Stewart
 - Shawn Noon
 
+## Flask Tutorials
+
+- [Chapter.16_Web_Development.pdf](https://itinstructor.github.io/WNCCComputerScience/Python/Web_Development/Chapter.16_Web_Development.pdf)
+- [Flask Unit Converter](https://itinstructor.github.io/WNCCComputerScience/Python/Web_Development/Flask_Unit_Converter.pdf)
+
+## Project Names
+
+Project Ragnarok: While Ragnarok is the "end of the world," in a project context it can signify the final, ultimate version of a build or a stress-testing application designed to push a system to its limits.
+
+1. OdinCode- All-seeing god meets all-seeing code.
+2. ThorByte - Hammering out powerful code and projects.
+3. LokiLogic - Clever, unpredictable algorithms and coding.
+4. ValhallaDev - A heaven for developers and their code.
+5. AsgardianTech - Divine tech from the realm of the gods.
+6. FreyaStack - Beauty and brains in full-stack development.
+7. MjolnirLabs - Where code hits like a thunderbolt.
+8. YggdrasilNet - The tree that connects all systems—like your project architecture.
+9. HeimdallHub - The guardian of gateways (perfect for network-related projects).
+10. TyrScripts - Justice in clean, efficient scripting.
+11. RunicCode - Ancient runes meet modern syntax.
+12. NorseNode - A network or idea node with mythic roots.
+13. BifrostBridge - Bridging users and data like the rainbow bridge.
+14. OdinWare - Software that sees all, like the Allfather.
+15. FrostGiant.dev - Big ideas, colder execution. Great for back-end-heavy projects.
+16. SagaSys - Every project tells a saga. Ideal for system design.
+17. RagnarokAI - Where machine learning meets the end of the old world.
+18. NornNet - The Norns wove fate; you weave networks.
+19. SkadiSoft - Precision and cold beauty in user interface.
+20. FenrirCode - Unleashing wild and powerful code—best for disruptive apps.
+21. AsgardOps – "Where All Systems Ascend."
+22. ValkyrieVision – "Guiding Your Code to Glory."
+23. RuneLogic – "Decoding the Secrets of Smart Systems."
+24. MjolnirBuild – "Hammer Out Powerful Deployments."
+25. BifrostBridge – "Connecting Worlds of Data and Code."
+26. FenrirGuard – "Unleash Security That Bites Back."
+27. JotunCompute – "Giant Power for Massive Processing."
+28. SleipnirSpeed – "Ride Eight-Legged Fast to Delivery."
+29. HodrShadow – "Silent Strength for Dark Ops."
+30. VanaheimVault – "Store Your Secrets Like the Gods."
+31. EinherjarTest – "Battle-Tested for Ultimate Reliability."
+32. GjallarhornAlert – "Sound the Alarm Before Chaos Strikes."
+33. NornPredict – "Fate-Driven Forecasting for Your Data."
+34. SurtrFire – "Ignite Performance with Relentless Heat."
+35. HrimfaxiSync – "Night-Rider Speed for Data Sync."
+36. AlfheimUI – "Light-Elf Elegance for Your Interfaces."
+37. VíðarrSilent – "Quiet Power for Background Tasks."
+38. RatatoskrLink – "Fast Messaging Across the Tree of Life."
+39. GungnirDeploy – "Strike True with Precision Deployments."
+40. DraupnirScale – "Infinite Replication, Just Like the Ring."
+
 ## AI ChatBot
 
 Python Flask project to create an AI chatbot using an open-source model from Hugging Face, with tasks divided for a team.
@@ -40,8 +90,6 @@ The first step is to create the skeleton of the application.
 - Set up a basic Flask server in an `app.py` file.
 - Create a simple HTML page (`index.html`) for the chat interface. This should include a chat history area, a text input box, and a "Send" button.
 - Style the page using CSS (`style.css`) to make it look like a chat window.
-
-
 
 #### **Phase 2: Frontend-Backend Communication**
 
