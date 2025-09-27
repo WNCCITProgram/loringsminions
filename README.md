@@ -16,7 +16,7 @@
   
 ## Project Names
 
-Project Ragnarok: While Ragnarok is the "end of the world," in a project context it can signify the final, ultimate version of a build or a stress-testing application designed to push a system to its limits.
+1. Project Ragnarok: While Ragnarok is the "end of the world," in a project context it can signify the final, ultimate version of a build or a stress-testing application designed to push a system to its limits.
 
 1. OdinCode- All-seeing god meets all-seeing code.
 2. ThorByte - Hammering out powerful code and projects.
