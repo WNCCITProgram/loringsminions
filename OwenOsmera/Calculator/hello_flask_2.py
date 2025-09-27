@@ -22,8 +22,9 @@ def home():
         num2 = request.form.get("num2")
         # sum
         sum = float(num1) + float(num2)
+        print(sum)
 
-        #This html is returned to our prowser
+        #This html is returned to our browser
         return render_template("result.html", sum=sum)
     
     #Otherwise we return index.html

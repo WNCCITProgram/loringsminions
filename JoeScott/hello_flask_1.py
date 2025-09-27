@@ -16,6 +16,6 @@ def hi_world():
 
 # Run programs
 if __name__ == "__main__":
-        app.run(debug=True)
+    app.run(debug=True)
 
 # You can locate this message at http://localhost:5000/
