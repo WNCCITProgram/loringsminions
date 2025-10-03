@@ -3,17 +3,23 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Intro to computer science</title>
-    <style>
-      body { font-family: Arial, Helvetica, sans-serif; display:flex; align-items:center; justify-content:center; height:100vh; margin:0; background:#f7f7f9; }
-      .card { background:white; padding:2rem 3rem; border-radius:8px; box-shadow:0 6px 18px rgba(0,0,0,0.08); text-align:center; }
-      h1 { margin:0 0 0.5rem 0; font-size:2rem; }
-    </style>
+    <title>Intro to Computer Science</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}">
   </head>
   <body>
     <div class="card">
-      <h1>Intro to computer science</h1>
-      <p>Welcome — this is a minimal page for the Intro to Computer Science course.</p>
+      <h1>Intro to Computer Science</h1>
+      <p>Welcome — The Intro to Computer Science course.</p>
+
+      <ul class="folders">
+        <li><a class="folder-link" href="/cs/CalebStewart/">CalebStewart</a></li>
+        <li><a class="folder-link" href="/cs/ChristiP/">ChristiP</a></li>
+        <li><a class="folder-link" href="/cs/Eliezer/">Eliezer</a></li>
+        <li><a class="folder-link" href="/cs/JoeScott/">JoeScott</a></li>
+        <li><a class="folder-link" href="/cs/OwenOsmera/">OwenOsmera</a></li>
+        <li><a class="folder-link" href="/cs/ShawnNoon/Converter/">ShawnNoon</a></li>
+      </ul>
+
     </div>
   </body>
 </html>
