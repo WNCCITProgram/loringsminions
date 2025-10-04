@@ -8,7 +8,7 @@
 
 # pip install flask
 # from the flask library, import the flask class
-from flask import Flask, request
+from flask import Flask, render_template
 
 # create an instance of the flask class
 app = Flask(__name__)
@@ -20,10 +20,8 @@ app = Flask(__name__)
 @app.route("/")
 def hello_world():
     # this html is returned to our browser
-    user_agent = request.headers.get("User-Agent")
-    return f"""<p>Hello, World!</p>
-    <p>Your browser is {user_agent}</p>
-    """
+    # render an HTML template and return
+    return render_template("hello.html")
 
 # http://127.0.0.1:5000/bye
 @app.route("/bye")
