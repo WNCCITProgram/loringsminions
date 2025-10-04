@@ -1,3 +1,10 @@
+"""
+    NAME:       converter.py
+    AUTHOR:     Shawn Noon
+    CREATED:    10/02/2025
+    PURPOSE:    Convert Kilograms to Pounds Using Flask interface
+"""
+
 from flask import Flask, render_template, request
 
 # Create Flask app
