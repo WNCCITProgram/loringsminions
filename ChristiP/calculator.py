@@ -22,3 +22,10 @@ def home():
 
         # calculate the sum of the 2 numbers
         sum = float(num1) + float(num2)
+
+        # return the results using the variable sum
+        # in a different web page
+        return render_template("index.html")
+
+if __name__ == "__main__":
+    app.run(debug=True)
