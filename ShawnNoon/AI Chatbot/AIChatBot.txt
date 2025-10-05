@@ -1,0 +1,8 @@
+Just some ideas for me to think about.
+
+AI Model? 
+LLM? Large Languge Model?
+RAG? Retrieval Augmented Generation?
+Using VM to run?
+Hosting?^^
+
