@@ -7,7 +7,7 @@
 - Joe Scott
 - Caleb Stewart
 - Shawn Noon
-- Elizier Lamen
+- Eliezer Lamien
 
 ## Flask Tutorials
 
